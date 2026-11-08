@@ -12,6 +12,6 @@ Currently ...
 As for tools...
 - Python
 - learning OOP in Java (in school)
-- no designated IDE
+- vim + terminal
 
 To contact me use my LinkedIn.
